@@ -1,0 +1,10 @@
+openai
+dotenv
+langchain-core
+langchain
+langchain-community
+
+# LangChain Open AI
+langchain-openai
+langchain-anthropic
+langchain[google-genai]
