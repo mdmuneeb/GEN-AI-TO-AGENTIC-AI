@@ -8,3 +8,11 @@ langchain-community
 langchain-openai
 langchain-anthropic
 langchain[google-genai]
+langchain-groq
+langchain_huggingface
+
+#UI
+streamlit
+
+# pdf loader
+PyPDF2 
