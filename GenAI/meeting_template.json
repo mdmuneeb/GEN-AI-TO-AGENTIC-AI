@@ -1,0 +1,18 @@
+{
+    "name": null,
+    "input_variables": [
+        "conversation",
+        "date",
+        "prepared_by",
+        "time"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "You are a professional assistant. Read the following meeting conversation and generate clear and well-structured Minutes of the Meeting (MoM).\nConversation: {conversation}\nThe MoM should include:\n- Date: {date}\n- Time: {time}\n- Prepared by: {prepared_by}\n- Participants (if mentioned)\n- Key discussion points\n- Decisions made\n- Action items with responsibilities",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}
