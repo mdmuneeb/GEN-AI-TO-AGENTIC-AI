@@ -16,3 +16,4 @@ streamlit
 
 # pdf loader
 PyPDF2 
+wikipedia
