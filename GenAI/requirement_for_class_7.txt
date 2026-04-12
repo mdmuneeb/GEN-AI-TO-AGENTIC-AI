@@ -10,10 +10,8 @@ langchain-anthropic
 langchain[google-genai]
 langchain-groq
 langchain_huggingface
-
-#UI
 streamlit
-
-# pdf loader
 PyPDF2 
 wikipedia
+scikit-learn
+pypdf
