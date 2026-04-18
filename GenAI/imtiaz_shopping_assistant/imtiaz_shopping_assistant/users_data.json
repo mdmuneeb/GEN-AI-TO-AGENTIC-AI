@@ -1,0 +1,1801 @@
+{
+    "users": [
+        {
+            "user_id": "U001",
+            "name": "Ayan Ahmed",
+            "phone": "+92-3171262974",
+            "email": "ayan.ahmed1@gmail.com",
+            "city": "Lahore",
+            "loyalty_points": 2902,
+            "tier": "Silver",
+            "total_spent_pkr": 10576,
+            "last_purchase_date": "2024-09-26",
+            "member_since": "2026-01-05",
+            "preferred_categories": [
+                "Bakery",
+                "Dairy"
+            ],
+            "average_basket_size": 10
+        },
+        {
+            "user_id": "U002",
+            "name": "Ayesha Siddiqui",
+            "phone": "+92-3192337297",
+            "email": "ayesha.siddiqui2@gmail.com",
+            "city": "Lahore",
+            "loyalty_points": 536,
+            "tier": "Bronze",
+            "total_spent_pkr": 140688,
+            "last_purchase_date": "2021-01-10",
+            "member_since": "2018-12-19",
+            "preferred_categories": [
+                "Frozen Food",
+                "Personal Care"
+            ],
+            "average_basket_size": 14
+        },
+        {
+            "user_id": "U003",
+            "name": "Hassan Siddiqui",
+            "phone": "+92-3387028595",
+            "email": "hassan.siddiqui3@gmail.com",
+            "city": "Islamabad",
+            "loyalty_points": 3883,
+            "tier": "Gold",
+            "total_spent_pkr": 19821,
+            "last_purchase_date": "2021-09-08",
+            "member_since": "2024-08-08",
+            "preferred_categories": [
+                "Beverages",
+                "Baby Care",
+                "Frozen Food"
+            ],
+            "average_basket_size": 10
+        },
+        {
+            "user_id": "U004",
+            "name": "Bilal Sheikh",
+            "phone": "+92-3424110298",
+            "email": "bilal.sheikh4@gmail.com",
+            "city": "Hyderabad",
+            "loyalty_points": 678,
+            "tier": "Bronze",
+            "total_spent_pkr": 25758,
+            "last_purchase_date": "2023-07-17",
+            "member_since": "2018-01-01",
+            "preferred_categories": [
+                "Dairy",
+                "Personal Care"
+            ],
+            "average_basket_size": 9
+        },
+        {
+            "user_id": "U005",
+            "name": "Hina Butt",
+            "phone": "+92-3187292705",
+            "email": "hina.butt5@gmail.com",
+            "city": "Multan",
+            "loyalty_points": 3110,
+            "tier": "Gold",
+            "total_spent_pkr": 131691,
+            "last_purchase_date": "2026-01-01",
+            "member_since": "2023-10-23",
+            "preferred_categories": [
+                "Bakery",
+                "Beverages",
+                "Frozen Food",
+                "Grocery"
+            ],
+            "average_basket_size": 7
+        },
+        {
+            "user_id": "U006",
+            "name": "Omar Farooq",
+            "phone": "+92-3349017795",
+            "email": "omar.farooq6@gmail.com",
+            "city": "Faisalabad",
+            "loyalty_points": 3731,
+            "tier": "Gold",
+            "total_spent_pkr": 67581,
+            "last_purchase_date": "2020-08-16",
+            "member_since": "2020-03-15",
+            "preferred_categories": [
+                "Snacks",
+                "Bakery",
+                "Beverages"
+            ],
+            "average_basket_size": 15
+        },
+        {
+            "user_id": "U007",
+            "name": "Ayan Khan",
+            "phone": "+92-3419313043",
+            "email": "ayan.khan7@gmail.com",
+            "city": "Rawalpindi",
+            "loyalty_points": 1382,
+            "tier": "Bronze",
+            "total_spent_pkr": 153421,
+            "last_purchase_date": "2025-09-26",
+            "member_since": "2018-11-23",
+            "preferred_categories": [
+                "Beverages",
+                "Bakery",
+                "Grocery",
+                "Personal Care"
+            ],
+            "average_basket_size": 14
+        },
+        {
+            "user_id": "U008",
+            "name": "Sana Ahmed",
+            "phone": "+92-3255627325",
+            "email": "sana.ahmed8@gmail.com",
+            "city": "Islamabad",
+            "loyalty_points": 4392,
+            "tier": "Gold",
+            "total_spent_pkr": 11057,
+            "last_purchase_date": "2026-03-02",
+            "member_since": "2023-03-03",
+            "preferred_categories": [
+                "Bakery",
+                "Beverages"
+            ],
+            "average_basket_size": 9
+        },
+        {
+            "user_id": "U009",
+            "name": "Mariam Ahmed",
+            "phone": "+92-3189297819",
+            "email": "mariam.ahmed9@gmail.com",
+            "city": "Peshawar",
+            "loyalty_points": 845,
+            "tier": "Bronze",
+            "total_spent_pkr": 101274,
+            "last_purchase_date": "2024-05-03",
+            "member_since": "2021-10-27",
+            "preferred_categories": [
+                "Bakery",
+                "Dairy",
+                "Beverages",
+                "Baby Care"
+            ],
+            "average_basket_size": 13
+        },
+        {
+            "user_id": "U010",
+            "name": "Omar Ansari",
+            "phone": "+92-3156705910",
+            "email": "omar.ansari10@gmail.com",
+            "city": "Multan",
+            "loyalty_points": 4737,
+            "tier": "Gold",
+            "total_spent_pkr": 145777,
+            "last_purchase_date": "2023-09-14",
+            "member_since": "2019-05-15",
+            "preferred_categories": [
+                "Bakery",
+                "Dairy",
+                "Frozen Food",
+                "Beverages"
+            ],
+            "average_basket_size": 7
+        },
+        {
+            "user_id": "U011",
+            "name": "Ayan Malik",
+            "phone": "+92-3149744751",
+            "email": "ayan.malik11@gmail.com",
+            "city": "Karachi",
+            "loyalty_points": 878,
+            "tier": "Bronze",
+            "total_spent_pkr": 31668,
+            "last_purchase_date": "2022-07-26",
+            "member_since": "2018-07-04",
+            "preferred_categories": [
+                "Grocery",
+                "Snacks",
+                "Beverages"
+            ],
+            "average_basket_size": 15
+        },
+        {
+            "user_id": "U012",
+            "name": "Iqra Khan",
+            "phone": "+92-3392636754",
+            "email": "iqra.khan12@gmail.com",
+            "city": "Lahore",
+            "loyalty_points": 3166,
+            "tier": "Gold",
+            "total_spent_pkr": 86919,
+            "last_purchase_date": "2019-07-19",
+            "member_since": "2024-10-08",
+            "preferred_categories": [
+                "Snacks",
+                "Frozen Food",
+                "Grocery"
+            ],
+            "average_basket_size": 12
+        },
+        {
+            "user_id": "U013",
+            "name": "Sana Siddiqui",
+            "phone": "+92-3407404449",
+            "email": "sana.siddiqui13@gmail.com",
+            "city": "Hyderabad",
+            "loyalty_points": 3468,
+            "tier": "Gold",
+            "total_spent_pkr": 157915,
+            "last_purchase_date": "2024-09-07",
+            "member_since": "2019-06-05",
+            "preferred_categories": [
+                "Dairy",
+                "Personal Care",
+                "Snacks",
+                "Baby Care"
+            ],
+            "average_basket_size": 12
+        },
+        {
+            "user_id": "U014",
+            "name": "Hamza Malik",
+            "phone": "+92-3152569592",
+            "email": "hamza.malik14@gmail.com",
+            "city": "Multan",
+            "loyalty_points": 3223,
+            "tier": "Gold",
+            "total_spent_pkr": 55056,
+            "last_purchase_date": "2020-08-02",
+            "member_since": "2021-08-01",
+            "preferred_categories": [
+                "Bakery",
+                "Baby Care",
+                "Snacks",
+                "Personal Care"
+            ],
+            "average_basket_size": 2
+        },
+        {
+            "user_id": "U015",
+            "name": "Hamza Ansari",
+            "phone": "+92-3419872829",
+            "email": "hamza.ansari15@gmail.com",
+            "city": "Multan",
+            "loyalty_points": 2971,
+            "tier": "Silver",
+            "total_spent_pkr": 107131,
+            "last_purchase_date": "2020-02-23",
+            "member_since": "2020-11-19",
+            "preferred_categories": [
+                "Bakery",
+                "Beverages",
+                "Snacks",
+                "Personal Care"
+            ],
+            "average_basket_size": 5
+        },
+        {
+            "user_id": "U016",
+            "name": "Hamza Malik",
+            "phone": "+92-3343675564",
+            "email": "hamza.malik16@gmail.com",
+            "city": "Islamabad",
+            "loyalty_points": 3677,
+            "tier": "Gold",
+            "total_spent_pkr": 144355,
+            "last_purchase_date": "2021-04-23",
+            "member_since": "2024-08-26",
+            "preferred_categories": [
+                "Bakery",
+                "Dairy"
+            ],
+            "average_basket_size": 9
+        },
+        {
+            "user_id": "U017",
+            "name": "Iqra Farooq",
+            "phone": "+92-3370962262",
+            "email": "iqra.farooq17@gmail.com",
+            "city": "Rawalpindi",
+            "loyalty_points": 2827,
+            "tier": "Silver",
+            "total_spent_pkr": 160110,
+            "last_purchase_date": "2023-12-20",
+            "member_since": "2021-04-04",
+            "preferred_categories": [
+                "Baby Care",
+                "Snacks",
+                "Grocery",
+                "Dairy"
+            ],
+            "average_basket_size": 9
+        },
+        {
+            "user_id": "U018",
+            "name": "Iqra Sheikh",
+            "phone": "+92-3492350778",
+            "email": "iqra.sheikh18@gmail.com",
+            "city": "Islamabad",
+            "loyalty_points": 3581,
+            "tier": "Gold",
+            "total_spent_pkr": 144079,
+            "last_purchase_date": "2021-08-07",
+            "member_since": "2024-02-26",
+            "preferred_categories": [
+                "Baby Care",
+                "Frozen Food",
+                "Beverages"
+            ],
+            "average_basket_size": 8
+        },
+        {
+            "user_id": "U019",
+            "name": "Zara Siddiqui",
+            "phone": "+92-3355958687",
+            "email": "zara.siddiqui19@gmail.com",
+            "city": "Lahore",
+            "loyalty_points": 632,
+            "tier": "Bronze",
+            "total_spent_pkr": 87411,
+            "last_purchase_date": "2021-05-09",
+            "member_since": "2026-02-14",
+            "preferred_categories": [
+                "Grocery",
+                "Baby Care"
+            ],
+            "average_basket_size": 9
+        },
+        {
+            "user_id": "U020",
+            "name": "Ahmed Butt",
+            "phone": "+92-3418343342",
+            "email": "ahmed.butt20@gmail.com",
+            "city": "Karachi",
+            "loyalty_points": 4395,
+            "tier": "Gold",
+            "total_spent_pkr": 151760,
+            "last_purchase_date": "2025-03-28",
+            "member_since": "2022-08-12",
+            "preferred_categories": [
+                "Personal Care",
+                "Beverages",
+                "Dairy"
+            ],
+            "average_basket_size": 8
+        },
+        {
+            "user_id": "U021",
+            "name": "Bilal Malik",
+            "phone": "+92-3413272486",
+            "email": "bilal.malik21@gmail.com",
+            "city": "Lahore",
+            "loyalty_points": 3602,
+            "tier": "Gold",
+            "total_spent_pkr": 69675,
+            "last_purchase_date": "2021-04-09",
+            "member_since": "2023-04-22",
+            "preferred_categories": [
+                "Snacks",
+                "Dairy",
+                "Baby Care"
+            ],
+            "average_basket_size": 2
+        },
+        {
+            "user_id": "U022",
+            "name": "Hamza Qureshi",
+            "phone": "+92-3354654462",
+            "email": "hamza.qureshi22@gmail.com",
+            "city": "Islamabad",
+            "loyalty_points": 2380,
+            "tier": "Silver",
+            "total_spent_pkr": 164881,
+            "last_purchase_date": "2019-10-04",
+            "member_since": "2019-01-14",
+            "preferred_categories": [
+                "Snacks",
+                "Personal Care",
+                "Baby Care",
+                "Dairy"
+            ],
+            "average_basket_size": 12
+        },
+        {
+            "user_id": "U023",
+            "name": "Hussain Ansari",
+            "phone": "+92-3365642141",
+            "email": "hussain.ansari23@gmail.com",
+            "city": "Karachi",
+            "loyalty_points": 2051,
+            "tier": "Silver",
+            "total_spent_pkr": 48554,
+            "last_purchase_date": "2023-04-14",
+            "member_since": "2023-04-04",
+            "preferred_categories": [
+                "Snacks",
+                "Baby Care"
+            ],
+            "average_basket_size": 8
+        },
+        {
+            "user_id": "U024",
+            "name": "Sana Ansari",
+            "phone": "+92-3315654946",
+            "email": "sana.ansari24@gmail.com",
+            "city": "Lahore",
+            "loyalty_points": 2268,
+            "tier": "Silver",
+            "total_spent_pkr": 149481,
+            "last_purchase_date": "2021-10-25",
+            "member_since": "2019-10-10",
+            "preferred_categories": [
+                "Dairy",
+                "Grocery"
+            ],
+            "average_basket_size": 2
+        },
+        {
+            "user_id": "U025",
+            "name": "Ali Khan",
+            "phone": "+92-3325282223",
+            "email": "ali.khan25@gmail.com",
+            "city": "Islamabad",
+            "loyalty_points": 3817,
+            "tier": "Gold",
+            "total_spent_pkr": 129959,
+            "last_purchase_date": "2025-06-09",
+            "member_since": "2019-05-25",
+            "preferred_categories": [
+                "Beverages",
+                "Personal Care"
+            ],
+            "average_basket_size": 5
+        },
+        {
+            "user_id": "U026",
+            "name": "Fatima Ahmed",
+            "phone": "+92-3323642430",
+            "email": "fatima.ahmed26@gmail.com",
+            "city": "Multan",
+            "loyalty_points": 1361,
+            "tier": "Bronze",
+            "total_spent_pkr": 6867,
+            "last_purchase_date": "2020-01-19",
+            "member_since": "2024-10-12",
+            "preferred_categories": [
+                "Frozen Food",
+                "Grocery",
+                "Beverages"
+            ],
+            "average_basket_size": 4
+        },
+        {
+            "user_id": "U027",
+            "name": "Fatima Farooq",
+            "phone": "+92-3199023500",
+            "email": "fatima.farooq27@gmail.com",
+            "city": "Lahore",
+            "loyalty_points": 1052,
+            "tier": "Bronze",
+            "total_spent_pkr": 56667,
+            "last_purchase_date": "2019-01-10",
+            "member_since": "2019-11-20",
+            "preferred_categories": [
+                "Snacks",
+                "Personal Care",
+                "Beverages"
+            ],
+            "average_basket_size": 3
+        },
+        {
+            "user_id": "U028",
+            "name": "Iqra Butt",
+            "phone": "+92-3126375040",
+            "email": "iqra.butt28@gmail.com",
+            "city": "Karachi",
+            "loyalty_points": 3076,
+            "tier": "Gold",
+            "total_spent_pkr": 192568,
+            "last_purchase_date": "2024-09-17",
+            "member_since": "2021-07-25",
+            "preferred_categories": [
+                "Dairy",
+                "Baby Care",
+                "Bakery"
+            ],
+            "average_basket_size": 6
+        },
+        {
+            "user_id": "U029",
+            "name": "Zain Butt",
+            "phone": "+92-3392968980",
+            "email": "zain.butt29@gmail.com",
+            "city": "Peshawar",
+            "loyalty_points": 898,
+            "tier": "Bronze",
+            "total_spent_pkr": 21266,
+            "last_purchase_date": "2020-11-25",
+            "member_since": "2023-02-10",
+            "preferred_categories": [
+                "Frozen Food",
+                "Beverages",
+                "Dairy"
+            ],
+            "average_basket_size": 9
+        },
+        {
+            "user_id": "U030",
+            "name": "Noor Raza",
+            "phone": "+92-3281266555",
+            "email": "noor.raza30@gmail.com",
+            "city": "Hyderabad",
+            "loyalty_points": 3171,
+            "tier": "Gold",
+            "total_spent_pkr": 24230,
+            "last_purchase_date": "2020-03-07",
+            "member_since": "2019-01-08",
+            "preferred_categories": [
+                "Bakery",
+                "Snacks",
+                "Baby Care",
+                "Personal Care"
+            ],
+            "average_basket_size": 12
+        },
+        {
+            "user_id": "U031",
+            "name": "Hussain Khan",
+            "phone": "+92-3198997664",
+            "email": "hussain.khan31@gmail.com",
+            "city": "Hyderabad",
+            "loyalty_points": 3196,
+            "tier": "Gold",
+            "total_spent_pkr": 95953,
+            "last_purchase_date": "2023-08-13",
+            "member_since": "2023-06-25",
+            "preferred_categories": [
+                "Dairy",
+                "Personal Care",
+                "Bakery"
+            ],
+            "average_basket_size": 7
+        },
+        {
+            "user_id": "U032",
+            "name": "Ayesha Ahmed",
+            "phone": "+92-3215473622",
+            "email": "ayesha.ahmed32@gmail.com",
+            "city": "Karachi",
+            "loyalty_points": 2091,
+            "tier": "Silver",
+            "total_spent_pkr": 122077,
+            "last_purchase_date": "2022-05-27",
+            "member_since": "2020-03-17",
+            "preferred_categories": [
+                "Grocery",
+                "Snacks",
+                "Bakery",
+                "Dairy"
+            ],
+            "average_basket_size": 14
+        },
+        {
+            "user_id": "U033",
+            "name": "Noor Malik",
+            "phone": "+92-3139779232",
+            "email": "noor.malik33@gmail.com",
+            "city": "Hyderabad",
+            "loyalty_points": 4595,
+            "tier": "Gold",
+            "total_spent_pkr": 28629,
+            "last_purchase_date": "2021-11-22",
+            "member_since": "2023-08-31",
+            "preferred_categories": [
+                "Bakery",
+                "Grocery",
+                "Frozen Food"
+            ],
+            "average_basket_size": 4
+        },
+        {
+            "user_id": "U034",
+            "name": "Hina Malik",
+            "phone": "+92-3369646742",
+            "email": "hina.malik34@gmail.com",
+            "city": "Rawalpindi",
+            "loyalty_points": 3432,
+            "tier": "Gold",
+            "total_spent_pkr": 24433,
+            "last_purchase_date": "2023-10-20",
+            "member_since": "2021-06-17",
+            "preferred_categories": [
+                "Beverages",
+                "Snacks",
+                "Personal Care",
+                "Dairy"
+            ],
+            "average_basket_size": 9
+        },
+        {
+            "user_id": "U035",
+            "name": "Hamza Ahmed",
+            "phone": "+92-3498984724",
+            "email": "hamza.ahmed35@gmail.com",
+            "city": "Lahore",
+            "loyalty_points": 844,
+            "tier": "Bronze",
+            "total_spent_pkr": 137483,
+            "last_purchase_date": "2024-01-30",
+            "member_since": "2025-07-22",
+            "preferred_categories": [
+                "Beverages",
+                "Personal Care",
+                "Grocery",
+                "Snacks"
+            ],
+            "average_basket_size": 3
+        },
+        {
+            "user_id": "U036",
+            "name": "Fatima Ahmed",
+            "phone": "+92-3290409803",
+            "email": "fatima.ahmed36@gmail.com",
+            "city": "Islamabad",
+            "loyalty_points": 4994,
+            "tier": "Gold",
+            "total_spent_pkr": 139385,
+            "last_purchase_date": "2023-09-22",
+            "member_since": "2023-05-26",
+            "preferred_categories": [
+                "Dairy",
+                "Personal Care",
+                "Grocery"
+            ],
+            "average_basket_size": 11
+        },
+        {
+            "user_id": "U037",
+            "name": "Ayan Ansari",
+            "phone": "+92-3344343560",
+            "email": "ayan.ansari37@gmail.com",
+            "city": "Lahore",
+            "loyalty_points": 1586,
+            "tier": "Silver",
+            "total_spent_pkr": 70934,
+            "last_purchase_date": "2024-09-11",
+            "member_since": "2025-06-15",
+            "preferred_categories": [
+                "Personal Care",
+                "Baby Care",
+                "Snacks",
+                "Beverages"
+            ],
+            "average_basket_size": 7
+        },
+        {
+            "user_id": "U038",
+            "name": "Fatima Sheikh",
+            "phone": "+92-3469500863",
+            "email": "fatima.sheikh38@gmail.com",
+            "city": "Hyderabad",
+            "loyalty_points": 3112,
+            "tier": "Gold",
+            "total_spent_pkr": 179653,
+            "last_purchase_date": "2023-07-24",
+            "member_since": "2022-02-13",
+            "preferred_categories": [
+                "Snacks",
+                "Frozen Food",
+                "Personal Care",
+                "Bakery"
+            ],
+            "average_basket_size": 6
+        },
+        {
+            "user_id": "U039",
+            "name": "Sana Ahmed",
+            "phone": "+92-3481667182",
+            "email": "sana.ahmed39@gmail.com",
+            "city": "Peshawar",
+            "loyalty_points": 2727,
+            "tier": "Silver",
+            "total_spent_pkr": 99799,
+            "last_purchase_date": "2019-03-22",
+            "member_since": "2021-06-07",
+            "preferred_categories": [
+                "Personal Care",
+                "Beverages"
+            ],
+            "average_basket_size": 10
+        },
+        {
+            "user_id": "U040",
+            "name": "Laiba Ansari",
+            "phone": "+92-3202284742",
+            "email": "laiba.ansari40@gmail.com",
+            "city": "Islamabad",
+            "loyalty_points": 3397,
+            "tier": "Gold",
+            "total_spent_pkr": 138166,
+            "last_purchase_date": "2021-06-12",
+            "member_since": "2018-12-01",
+            "preferred_categories": [
+                "Frozen Food",
+                "Dairy",
+                "Grocery",
+                "Snacks"
+            ],
+            "average_basket_size": 6
+        },
+        {
+            "user_id": "U041",
+            "name": "Noor Qureshi",
+            "phone": "+92-3411909422",
+            "email": "noor.qureshi41@gmail.com",
+            "city": "Hyderabad",
+            "loyalty_points": 4902,
+            "tier": "Gold",
+            "total_spent_pkr": 7541,
+            "last_purchase_date": "2020-03-25",
+            "member_since": "2021-12-17",
+            "preferred_categories": [
+                "Grocery",
+                "Baby Care"
+            ],
+            "average_basket_size": 4
+        },
+        {
+            "user_id": "U042",
+            "name": "Sana Qureshi",
+            "phone": "+92-3118302329",
+            "email": "sana.qureshi42@gmail.com",
+            "city": "Karachi",
+            "loyalty_points": 92,
+            "tier": "Bronze",
+            "total_spent_pkr": 149638,
+            "last_purchase_date": "2023-11-21",
+            "member_since": "2023-06-21",
+            "preferred_categories": [
+                "Snacks",
+                "Personal Care"
+            ],
+            "average_basket_size": 12
+        },
+        {
+            "user_id": "U043",
+            "name": "Sara Qureshi",
+            "phone": "+92-3479439565",
+            "email": "sara.qureshi43@gmail.com",
+            "city": "Karachi",
+            "loyalty_points": 2637,
+            "tier": "Silver",
+            "total_spent_pkr": 64598,
+            "last_purchase_date": "2025-02-22",
+            "member_since": "2022-09-18",
+            "preferred_categories": [
+                "Bakery",
+                "Dairy",
+                "Baby Care",
+                "Grocery"
+            ],
+            "average_basket_size": 10
+        },
+        {
+            "user_id": "U044",
+            "name": "Zain Ahmed",
+            "phone": "+92-3166862605",
+            "email": "zain.ahmed44@gmail.com",
+            "city": "Karachi",
+            "loyalty_points": 3661,
+            "tier": "Gold",
+            "total_spent_pkr": 53903,
+            "last_purchase_date": "2020-04-20",
+            "member_since": "2020-12-28",
+            "preferred_categories": [
+                "Grocery",
+                "Frozen Food"
+            ],
+            "average_basket_size": 4
+        },
+        {
+            "user_id": "U045",
+            "name": "Ahmed Raza",
+            "phone": "+92-3147235836",
+            "email": "ahmed.raza45@gmail.com",
+            "city": "Hyderabad",
+            "loyalty_points": 2864,
+            "tier": "Silver",
+            "total_spent_pkr": 150705,
+            "last_purchase_date": "2023-12-23",
+            "member_since": "2024-11-10",
+            "preferred_categories": [
+                "Bakery",
+                "Grocery"
+            ],
+            "average_basket_size": 6
+        },
+        {
+            "user_id": "U046",
+            "name": "Iqra Khan",
+            "phone": "+92-3220107497",
+            "email": "iqra.khan46@gmail.com",
+            "city": "Multan",
+            "loyalty_points": 409,
+            "tier": "Bronze",
+            "total_spent_pkr": 89537,
+            "last_purchase_date": "2019-01-23",
+            "member_since": "2019-03-31",
+            "preferred_categories": [
+                "Personal Care",
+                "Dairy",
+                "Frozen Food",
+                "Bakery"
+            ],
+            "average_basket_size": 6
+        },
+        {
+            "user_id": "U047",
+            "name": "Sara Ahmed",
+            "phone": "+92-3159969933",
+            "email": "sara.ahmed47@gmail.com",
+            "city": "Hyderabad",
+            "loyalty_points": 2534,
+            "tier": "Silver",
+            "total_spent_pkr": 17311,
+            "last_purchase_date": "2024-03-31",
+            "member_since": "2026-03-08",
+            "preferred_categories": [
+                "Bakery",
+                "Dairy"
+            ],
+            "average_basket_size": 12
+        },
+        {
+            "user_id": "U048",
+            "name": "Hamza Sheikh",
+            "phone": "+92-3413488621",
+            "email": "hamza.sheikh48@gmail.com",
+            "city": "Karachi",
+            "loyalty_points": 1840,
+            "tier": "Silver",
+            "total_spent_pkr": 96380,
+            "last_purchase_date": "2019-11-17",
+            "member_since": "2018-04-16",
+            "preferred_categories": [
+                "Grocery",
+                "Baby Care"
+            ],
+            "average_basket_size": 10
+        },
+        {
+            "user_id": "U049",
+            "name": "Hamza Sheikh",
+            "phone": "+92-3295224518",
+            "email": "hamza.sheikh49@gmail.com",
+            "city": "Hyderabad",
+            "loyalty_points": 2305,
+            "tier": "Silver",
+            "total_spent_pkr": 31146,
+            "last_purchase_date": "2023-03-22",
+            "member_since": "2023-09-05",
+            "preferred_categories": [
+                "Snacks",
+                "Grocery",
+                "Baby Care",
+                "Bakery"
+            ],
+            "average_basket_size": 10
+        },
+        {
+            "user_id": "U050",
+            "name": "Hassan Ahmed",
+            "phone": "+92-3351496055",
+            "email": "hassan.ahmed50@gmail.com",
+            "city": "Hyderabad",
+            "loyalty_points": 3327,
+            "tier": "Gold",
+            "total_spent_pkr": 44434,
+            "last_purchase_date": "2020-10-09",
+            "member_since": "2025-10-08",
+            "preferred_categories": [
+                "Grocery",
+                "Baby Care",
+                "Snacks"
+            ],
+            "average_basket_size": 6
+        },
+        {
+            "user_id": "U051",
+            "name": "Hassan Khan",
+            "phone": "+92-3272851120",
+            "email": "hassan.khan51@gmail.com",
+            "city": "Islamabad",
+            "loyalty_points": 1142,
+            "tier": "Bronze",
+            "total_spent_pkr": 86443,
+            "last_purchase_date": "2019-06-16",
+            "member_since": "2025-10-23",
+            "preferred_categories": [
+                "Beverages",
+                "Snacks"
+            ],
+            "average_basket_size": 8
+        },
+        {
+            "user_id": "U052",
+            "name": "Laiba Ahmed",
+            "phone": "+92-3173699473",
+            "email": "laiba.ahmed52@gmail.com",
+            "city": "Islamabad",
+            "loyalty_points": 951,
+            "tier": "Bronze",
+            "total_spent_pkr": 182723,
+            "last_purchase_date": "2020-03-22",
+            "member_since": "2022-03-11",
+            "preferred_categories": [
+                "Grocery",
+                "Personal Care"
+            ],
+            "average_basket_size": 3
+        },
+        {
+            "user_id": "U053",
+            "name": "Laiba Sheikh",
+            "phone": "+92-3300183249",
+            "email": "laiba.sheikh53@gmail.com",
+            "city": "Lahore",
+            "loyalty_points": 2597,
+            "tier": "Silver",
+            "total_spent_pkr": 48983,
+            "last_purchase_date": "2023-05-12",
+            "member_since": "2019-10-21",
+            "preferred_categories": [
+                "Dairy",
+                "Frozen Food",
+                "Grocery",
+                "Snacks"
+            ],
+            "average_basket_size": 11
+        },
+        {
+            "user_id": "U054",
+            "name": "Usman Malik",
+            "phone": "+92-3496808261",
+            "email": "usman.malik54@gmail.com",
+            "city": "Multan",
+            "loyalty_points": 522,
+            "tier": "Bronze",
+            "total_spent_pkr": 86247,
+            "last_purchase_date": "2023-10-18",
+            "member_since": "2024-10-10",
+            "preferred_categories": [
+                "Personal Care",
+                "Bakery",
+                "Baby Care"
+            ],
+            "average_basket_size": 13
+        },
+        {
+            "user_id": "U055",
+            "name": "Zain Khan",
+            "phone": "+92-3394869148",
+            "email": "zain.khan55@gmail.com",
+            "city": "Rawalpindi",
+            "loyalty_points": 3351,
+            "tier": "Gold",
+            "total_spent_pkr": 52102,
+            "last_purchase_date": "2021-09-05",
+            "member_since": "2020-11-24",
+            "preferred_categories": [
+                "Frozen Food",
+                "Grocery",
+                "Bakery"
+            ],
+            "average_basket_size": 12
+        },
+        {
+            "user_id": "U056",
+            "name": "Ayesha Malik",
+            "phone": "+92-3451568609",
+            "email": "ayesha.malik56@gmail.com",
+            "city": "Lahore",
+            "loyalty_points": 256,
+            "tier": "Bronze",
+            "total_spent_pkr": 98584,
+            "last_purchase_date": "2024-03-05",
+            "member_since": "2024-12-12",
+            "preferred_categories": [
+                "Baby Care",
+                "Grocery",
+                "Snacks",
+                "Frozen Food"
+            ],
+            "average_basket_size": 9
+        },
+        {
+            "user_id": "U057",
+            "name": "Zain Ahmed",
+            "phone": "+92-3496625974",
+            "email": "zain.ahmed57@gmail.com",
+            "city": "Multan",
+            "loyalty_points": 4093,
+            "tier": "Gold",
+            "total_spent_pkr": 159828,
+            "last_purchase_date": "2021-02-15",
+            "member_since": "2019-04-01",
+            "preferred_categories": [
+                "Personal Care",
+                "Dairy"
+            ],
+            "average_basket_size": 5
+        },
+        {
+            "user_id": "U058",
+            "name": "Laiba Ansari",
+            "phone": "+92-3144280964",
+            "email": "laiba.ansari58@gmail.com",
+            "city": "Faisalabad",
+            "loyalty_points": 1356,
+            "tier": "Bronze",
+            "total_spent_pkr": 16664,
+            "last_purchase_date": "2022-01-27",
+            "member_since": "2024-11-11",
+            "preferred_categories": [
+                "Grocery",
+                "Snacks"
+            ],
+            "average_basket_size": 9
+        },
+        {
+            "user_id": "U059",
+            "name": "Bilal Qureshi",
+            "phone": "+92-3108216721",
+            "email": "bilal.qureshi59@gmail.com",
+            "city": "Multan",
+            "loyalty_points": 3157,
+            "tier": "Gold",
+            "total_spent_pkr": 17564,
+            "last_purchase_date": "2024-05-30",
+            "member_since": "2023-10-29",
+            "preferred_categories": [
+                "Bakery",
+                "Snacks",
+                "Frozen Food"
+            ],
+            "average_basket_size": 8
+        },
+        {
+            "user_id": "U060",
+            "name": "Zain Ansari",
+            "phone": "+92-3469868761",
+            "email": "zain.ansari60@gmail.com",
+            "city": "Faisalabad",
+            "loyalty_points": 1664,
+            "tier": "Silver",
+            "total_spent_pkr": 148768,
+            "last_purchase_date": "2025-07-03",
+            "member_since": "2022-09-24",
+            "preferred_categories": [
+                "Snacks",
+                "Dairy",
+                "Baby Care"
+            ],
+            "average_basket_size": 9
+        },
+        {
+            "user_id": "U061",
+            "name": "Noor Ansari",
+            "phone": "+92-3208716765",
+            "email": "noor.ansari61@gmail.com",
+            "city": "Karachi",
+            "loyalty_points": 3351,
+            "tier": "Gold",
+            "total_spent_pkr": 53818,
+            "last_purchase_date": "2025-10-01",
+            "member_since": "2021-03-25",
+            "preferred_categories": [
+                "Bakery",
+                "Grocery",
+                "Beverages"
+            ],
+            "average_basket_size": 14
+        },
+        {
+            "user_id": "U062",
+            "name": "Hina Sheikh",
+            "phone": "+92-3249992947",
+            "email": "hina.sheikh62@gmail.com",
+            "city": "Peshawar",
+            "loyalty_points": 1760,
+            "tier": "Silver",
+            "total_spent_pkr": 37032,
+            "last_purchase_date": "2023-05-31",
+            "member_since": "2020-10-07",
+            "preferred_categories": [
+                "Bakery",
+                "Beverages",
+                "Personal Care",
+                "Baby Care"
+            ],
+            "average_basket_size": 14
+        },
+        {
+            "user_id": "U063",
+            "name": "Ayan Ansari",
+            "phone": "+92-3319323691",
+            "email": "ayan.ansari63@gmail.com",
+            "city": "Rawalpindi",
+            "loyalty_points": 3582,
+            "tier": "Gold",
+            "total_spent_pkr": 69213,
+            "last_purchase_date": "2023-03-22",
+            "member_since": "2024-06-16",
+            "preferred_categories": [
+                "Grocery",
+                "Dairy",
+                "Baby Care",
+                "Snacks"
+            ],
+            "average_basket_size": 2
+        },
+        {
+            "user_id": "U064",
+            "name": "Sana Ahmed",
+            "phone": "+92-3107330972",
+            "email": "sana.ahmed64@gmail.com",
+            "city": "Karachi",
+            "loyalty_points": 918,
+            "tier": "Bronze",
+            "total_spent_pkr": 40343,
+            "last_purchase_date": "2019-05-24",
+            "member_since": "2020-03-28",
+            "preferred_categories": [
+                "Bakery",
+                "Grocery"
+            ],
+            "average_basket_size": 13
+        },
+        {
+            "user_id": "U065",
+            "name": "Hassan Khan",
+            "phone": "+92-3447719905",
+            "email": "hassan.khan65@gmail.com",
+            "city": "Karachi",
+            "loyalty_points": 4347,
+            "tier": "Gold",
+            "total_spent_pkr": 22219,
+            "last_purchase_date": "2020-06-11",
+            "member_since": "2021-09-04",
+            "preferred_categories": [
+                "Personal Care",
+                "Baby Care"
+            ],
+            "average_basket_size": 11
+        },
+        {
+            "user_id": "U066",
+            "name": "Hina Farooq",
+            "phone": "+92-3386219976",
+            "email": "hina.farooq66@gmail.com",
+            "city": "Lahore",
+            "loyalty_points": 2612,
+            "tier": "Silver",
+            "total_spent_pkr": 112060,
+            "last_purchase_date": "2021-03-05",
+            "member_since": "2022-03-01",
+            "preferred_categories": [
+                "Dairy",
+                "Bakery",
+                "Personal Care",
+                "Grocery"
+            ],
+            "average_basket_size": 13
+        },
+        {
+            "user_id": "U067",
+            "name": "Hassan Siddiqui",
+            "phone": "+92-3174426164",
+            "email": "hassan.siddiqui67@gmail.com",
+            "city": "Multan",
+            "loyalty_points": 4320,
+            "tier": "Gold",
+            "total_spent_pkr": 157528,
+            "last_purchase_date": "2022-03-19",
+            "member_since": "2020-06-20",
+            "preferred_categories": [
+                "Baby Care",
+                "Dairy"
+            ],
+            "average_basket_size": 6
+        },
+        {
+            "user_id": "U068",
+            "name": "Ali Malik",
+            "phone": "+92-3254361808",
+            "email": "ali.malik68@gmail.com",
+            "city": "Karachi",
+            "loyalty_points": 2906,
+            "tier": "Silver",
+            "total_spent_pkr": 169333,
+            "last_purchase_date": "2025-05-12",
+            "member_since": "2025-07-11",
+            "preferred_categories": [
+                "Frozen Food",
+                "Personal Care"
+            ],
+            "average_basket_size": 2
+        },
+        {
+            "user_id": "U069",
+            "name": "Usman Siddiqui",
+            "phone": "+92-3239821794",
+            "email": "usman.siddiqui69@gmail.com",
+            "city": "Lahore",
+            "loyalty_points": 2623,
+            "tier": "Silver",
+            "total_spent_pkr": 36290,
+            "last_purchase_date": "2023-07-05",
+            "member_since": "2020-04-15",
+            "preferred_categories": [
+                "Bakery",
+                "Frozen Food",
+                "Beverages"
+            ],
+            "average_basket_size": 5
+        },
+        {
+            "user_id": "U070",
+            "name": "Mariam Qureshi",
+            "phone": "+92-3143685429",
+            "email": "mariam.qureshi70@gmail.com",
+            "city": "Rawalpindi",
+            "loyalty_points": 2484,
+            "tier": "Silver",
+            "total_spent_pkr": 145029,
+            "last_purchase_date": "2023-02-13",
+            "member_since": "2021-07-14",
+            "preferred_categories": [
+                "Beverages",
+                "Dairy",
+                "Baby Care",
+                "Personal Care"
+            ],
+            "average_basket_size": 6
+        },
+        {
+            "user_id": "U071",
+            "name": "Laiba Farooq",
+            "phone": "+92-3430104394",
+            "email": "laiba.farooq71@gmail.com",
+            "city": "Faisalabad",
+            "loyalty_points": 2630,
+            "tier": "Silver",
+            "total_spent_pkr": 52339,
+            "last_purchase_date": "2024-12-16",
+            "member_since": "2022-07-19",
+            "preferred_categories": [
+                "Baby Care",
+                "Frozen Food"
+            ],
+            "average_basket_size": 7
+        },
+        {
+            "user_id": "U072",
+            "name": "Hassan Butt",
+            "phone": "+92-3177986219",
+            "email": "hassan.butt72@gmail.com",
+            "city": "Lahore",
+            "loyalty_points": 3596,
+            "tier": "Gold",
+            "total_spent_pkr": 60407,
+            "last_purchase_date": "2021-05-09",
+            "member_since": "2018-03-30",
+            "preferred_categories": [
+                "Bakery",
+                "Frozen Food"
+            ],
+            "average_basket_size": 2
+        },
+        {
+            "user_id": "U073",
+            "name": "Hina Farooq",
+            "phone": "+92-3282463208",
+            "email": "hina.farooq73@gmail.com",
+            "city": "Multan",
+            "loyalty_points": 436,
+            "tier": "Bronze",
+            "total_spent_pkr": 47834,
+            "last_purchase_date": "2021-12-04",
+            "member_since": "2024-08-26",
+            "preferred_categories": [
+                "Dairy",
+                "Frozen Food"
+            ],
+            "average_basket_size": 2
+        },
+        {
+            "user_id": "U074",
+            "name": "Bilal Raza",
+            "phone": "+92-3243004409",
+            "email": "bilal.raza74@gmail.com",
+            "city": "Faisalabad",
+            "loyalty_points": 437,
+            "tier": "Bronze",
+            "total_spent_pkr": 7339,
+            "last_purchase_date": "2021-09-12",
+            "member_since": "2025-01-19",
+            "preferred_categories": [
+                "Beverages",
+                "Snacks"
+            ],
+            "average_basket_size": 10
+        },
+        {
+            "user_id": "U075",
+            "name": "Zara Raza",
+            "phone": "+92-3198475611",
+            "email": "zara.raza75@gmail.com",
+            "city": "Islamabad",
+            "loyalty_points": 4105,
+            "tier": "Gold",
+            "total_spent_pkr": 111412,
+            "last_purchase_date": "2019-09-03",
+            "member_since": "2025-03-21",
+            "preferred_categories": [
+                "Snacks",
+                "Grocery",
+                "Beverages"
+            ],
+            "average_basket_size": 5
+        },
+        {
+            "user_id": "U076",
+            "name": "Hamza Qureshi",
+            "phone": "+92-3207169315",
+            "email": "hamza.qureshi76@gmail.com",
+            "city": "Peshawar",
+            "loyalty_points": 3635,
+            "tier": "Gold",
+            "total_spent_pkr": 41099,
+            "last_purchase_date": "2024-06-04",
+            "member_since": "2022-04-01",
+            "preferred_categories": [
+                "Grocery",
+                "Frozen Food",
+                "Bakery"
+            ],
+            "average_basket_size": 9
+        },
+        {
+            "user_id": "U077",
+            "name": "Fatima Khan",
+            "phone": "+92-3458749803",
+            "email": "fatima.khan77@gmail.com",
+            "city": "Rawalpindi",
+            "loyalty_points": 1253,
+            "tier": "Bronze",
+            "total_spent_pkr": 126680,
+            "last_purchase_date": "2022-01-21",
+            "member_since": "2026-02-05",
+            "preferred_categories": [
+                "Baby Care",
+                "Grocery",
+                "Personal Care",
+                "Beverages"
+            ],
+            "average_basket_size": 13
+        },
+        {
+            "user_id": "U078",
+            "name": "Sara Ahmed",
+            "phone": "+92-3385489419",
+            "email": "sara.ahmed78@gmail.com",
+            "city": "Peshawar",
+            "loyalty_points": 467,
+            "tier": "Bronze",
+            "total_spent_pkr": 128699,
+            "last_purchase_date": "2019-06-08",
+            "member_since": "2026-01-15",
+            "preferred_categories": [
+                "Snacks",
+                "Personal Care"
+            ],
+            "average_basket_size": 2
+        },
+        {
+            "user_id": "U079",
+            "name": "Sana Raza",
+            "phone": "+92-3476277388",
+            "email": "sana.raza79@gmail.com",
+            "city": "Islamabad",
+            "loyalty_points": 2262,
+            "tier": "Silver",
+            "total_spent_pkr": 69789,
+            "last_purchase_date": "2024-12-07",
+            "member_since": "2024-05-20",
+            "preferred_categories": [
+                "Frozen Food",
+                "Personal Care",
+                "Bakery"
+            ],
+            "average_basket_size": 12
+        },
+        {
+            "user_id": "U080",
+            "name": "Hamza Siddiqui",
+            "phone": "+92-3249847800",
+            "email": "hamza.siddiqui80@gmail.com",
+            "city": "Lahore",
+            "loyalty_points": 1223,
+            "tier": "Bronze",
+            "total_spent_pkr": 144424,
+            "last_purchase_date": "2025-05-21",
+            "member_since": "2023-04-15",
+            "preferred_categories": [
+                "Beverages",
+                "Baby Care"
+            ],
+            "average_basket_size": 6
+        },
+        {
+            "user_id": "U081",
+            "name": "Usman Siddiqui",
+            "phone": "+92-3401235365",
+            "email": "usman.siddiqui81@gmail.com",
+            "city": "Islamabad",
+            "loyalty_points": 1299,
+            "tier": "Bronze",
+            "total_spent_pkr": 13991,
+            "last_purchase_date": "2025-07-07",
+            "member_since": "2023-04-03",
+            "preferred_categories": [
+                "Frozen Food",
+                "Grocery",
+                "Personal Care"
+            ],
+            "average_basket_size": 4
+        },
+        {
+            "user_id": "U082",
+            "name": "Omar Malik",
+            "phone": "+92-3224665499",
+            "email": "omar.malik82@gmail.com",
+            "city": "Peshawar",
+            "loyalty_points": 727,
+            "tier": "Bronze",
+            "total_spent_pkr": 97340,
+            "last_purchase_date": "2020-04-05",
+            "member_since": "2023-05-05",
+            "preferred_categories": [
+                "Snacks",
+                "Frozen Food",
+                "Baby Care",
+                "Beverages"
+            ],
+            "average_basket_size": 12
+        },
+        {
+            "user_id": "U083",
+            "name": "Ali Malik",
+            "phone": "+92-3277172587",
+            "email": "ali.malik83@gmail.com",
+            "city": "Karachi",
+            "loyalty_points": 3511,
+            "tier": "Gold",
+            "total_spent_pkr": 186945,
+            "last_purchase_date": "2022-10-25",
+            "member_since": "2020-05-08",
+            "preferred_categories": [
+                "Bakery",
+                "Baby Care"
+            ],
+            "average_basket_size": 14
+        },
+        {
+            "user_id": "U084",
+            "name": "Zara Butt",
+            "phone": "+92-3217857926",
+            "email": "zara.butt84@gmail.com",
+            "city": "Multan",
+            "loyalty_points": 4146,
+            "tier": "Gold",
+            "total_spent_pkr": 46573,
+            "last_purchase_date": "2020-08-28",
+            "member_since": "2020-06-24",
+            "preferred_categories": [
+                "Baby Care",
+                "Dairy",
+                "Beverages",
+                "Grocery"
+            ],
+            "average_basket_size": 15
+        },
+        {
+            "user_id": "U085",
+            "name": "Hussain Ahmed",
+            "phone": "+92-3185050604",
+            "email": "hussain.ahmed85@gmail.com",
+            "city": "Islamabad",
+            "loyalty_points": 938,
+            "tier": "Bronze",
+            "total_spent_pkr": 18833,
+            "last_purchase_date": "2024-01-13",
+            "member_since": "2023-07-11",
+            "preferred_categories": [
+                "Frozen Food",
+                "Snacks",
+                "Personal Care"
+            ],
+            "average_basket_size": 9
+        },
+        {
+            "user_id": "U086",
+            "name": "Mariam Butt",
+            "phone": "+92-3320396019",
+            "email": "mariam.butt86@gmail.com",
+            "city": "Peshawar",
+            "loyalty_points": 651,
+            "tier": "Bronze",
+            "total_spent_pkr": 155258,
+            "last_purchase_date": "2025-08-03",
+            "member_since": "2022-02-23",
+            "preferred_categories": [
+                "Dairy",
+                "Bakery",
+                "Frozen Food"
+            ],
+            "average_basket_size": 15
+        },
+        {
+            "user_id": "U087",
+            "name": "Hassan Farooq",
+            "phone": "+92-3150517977",
+            "email": "hassan.farooq87@gmail.com",
+            "city": "Islamabad",
+            "loyalty_points": 843,
+            "tier": "Bronze",
+            "total_spent_pkr": 122103,
+            "last_purchase_date": "2022-05-01",
+            "member_since": "2020-08-02",
+            "preferred_categories": [
+                "Beverages",
+                "Snacks",
+                "Dairy",
+                "Grocery"
+            ],
+            "average_basket_size": 6
+        },
+        {
+            "user_id": "U088",
+            "name": "Iqra Raza",
+            "phone": "+92-3175531429",
+            "email": "iqra.raza88@gmail.com",
+            "city": "Karachi",
+            "loyalty_points": 4504,
+            "tier": "Gold",
+            "total_spent_pkr": 17659,
+            "last_purchase_date": "2026-02-27",
+            "member_since": "2025-01-18",
+            "preferred_categories": [
+                "Baby Care",
+                "Dairy"
+            ],
+            "average_basket_size": 14
+        },
+        {
+            "user_id": "U089",
+            "name": "Ali Malik",
+            "phone": "+92-3232340792",
+            "email": "ali.malik89@gmail.com",
+            "city": "Lahore",
+            "loyalty_points": 3303,
+            "tier": "Gold",
+            "total_spent_pkr": 185374,
+            "last_purchase_date": "2024-08-12",
+            "member_since": "2019-09-27",
+            "preferred_categories": [
+                "Personal Care",
+                "Dairy",
+                "Grocery"
+            ],
+            "average_basket_size": 6
+        },
+        {
+            "user_id": "U090",
+            "name": "Usman Raza",
+            "phone": "+92-3226035868",
+            "email": "usman.raza90@gmail.com",
+            "city": "Multan",
+            "loyalty_points": 2021,
+            "tier": "Silver",
+            "total_spent_pkr": 174285,
+            "last_purchase_date": "2019-02-27",
+            "member_since": "2018-02-19",
+            "preferred_categories": [
+                "Personal Care",
+                "Beverages",
+                "Grocery"
+            ],
+            "average_basket_size": 11
+        },
+        {
+            "user_id": "U091",
+            "name": "Zain Malik",
+            "phone": "+92-3225496571",
+            "email": "zain.malik91@gmail.com",
+            "city": "Rawalpindi",
+            "loyalty_points": 3934,
+            "tier": "Gold",
+            "total_spent_pkr": 153651,
+            "last_purchase_date": "2020-04-15",
+            "member_since": "2026-01-03",
+            "preferred_categories": [
+                "Dairy",
+                "Baby Care",
+                "Grocery",
+                "Beverages"
+            ],
+            "average_basket_size": 4
+        },
+        {
+            "user_id": "U092",
+            "name": "Ahmed Malik",
+            "phone": "+92-3134639530",
+            "email": "ahmed.malik92@gmail.com",
+            "city": "Multan",
+            "loyalty_points": 4988,
+            "tier": "Gold",
+            "total_spent_pkr": 170383,
+            "last_purchase_date": "2019-12-04",
+            "member_since": "2022-01-01",
+            "preferred_categories": [
+                "Snacks",
+                "Baby Care",
+                "Beverages"
+            ],
+            "average_basket_size": 4
+        },
+        {
+            "user_id": "U093",
+            "name": "Iqra Ansari",
+            "phone": "+92-3356040306",
+            "email": "iqra.ansari93@gmail.com",
+            "city": "Faisalabad",
+            "loyalty_points": 489,
+            "tier": "Bronze",
+            "total_spent_pkr": 155020,
+            "last_purchase_date": "2020-02-19",
+            "member_since": "2024-09-02",
+            "preferred_categories": [
+                "Frozen Food",
+                "Dairy",
+                "Baby Care",
+                "Snacks"
+            ],
+            "average_basket_size": 6
+        },
+        {
+            "user_id": "U094",
+            "name": "Iqra Ahmed",
+            "phone": "+92-3409728133",
+            "email": "iqra.ahmed94@gmail.com",
+            "city": "Karachi",
+            "loyalty_points": 1380,
+            "tier": "Bronze",
+            "total_spent_pkr": 91305,
+            "last_purchase_date": "2019-06-26",
+            "member_since": "2019-07-14",
+            "preferred_categories": [
+                "Personal Care",
+                "Grocery",
+                "Snacks"
+            ],
+            "average_basket_size": 6
+        },
+        {
+            "user_id": "U095",
+            "name": "Ayesha Siddiqui",
+            "phone": "+92-3153947510",
+            "email": "ayesha.siddiqui95@gmail.com",
+            "city": "Hyderabad",
+            "loyalty_points": 4174,
+            "tier": "Gold",
+            "total_spent_pkr": 128520,
+            "last_purchase_date": "2021-07-06",
+            "member_since": "2018-11-10",
+            "preferred_categories": [
+                "Personal Care",
+                "Baby Care",
+                "Grocery"
+            ],
+            "average_basket_size": 13
+        },
+        {
+            "user_id": "U096",
+            "name": "Zara Siddiqui",
+            "phone": "+92-3390661026",
+            "email": "zara.siddiqui96@gmail.com",
+            "city": "Multan",
+            "loyalty_points": 331,
+            "tier": "Bronze",
+            "total_spent_pkr": 66626,
+            "last_purchase_date": "2021-06-20",
+            "member_since": "2019-04-12",
+            "preferred_categories": [
+                "Baby Care",
+                "Beverages",
+                "Snacks"
+            ],
+            "average_basket_size": 4
+        },
+        {
+            "user_id": "U097",
+            "name": "Omar Farooq",
+            "phone": "+92-3340259093",
+            "email": "omar.farooq97@gmail.com",
+            "city": "Karachi",
+            "loyalty_points": 4206,
+            "tier": "Gold",
+            "total_spent_pkr": 47975,
+            "last_purchase_date": "2022-01-11",
+            "member_since": "2023-05-05",
+            "preferred_categories": [
+                "Bakery",
+                "Personal Care",
+                "Dairy",
+                "Snacks"
+            ],
+            "average_basket_size": 13
+        },
+        {
+            "user_id": "U098",
+            "name": "Noor Khan",
+            "phone": "+92-3149619288",
+            "email": "noor.khan98@gmail.com",
+            "city": "Hyderabad",
+            "loyalty_points": 1271,
+            "tier": "Bronze",
+            "total_spent_pkr": 156883,
+            "last_purchase_date": "2020-04-20",
+            "member_since": "2018-10-24",
+            "preferred_categories": [
+                "Grocery",
+                "Beverages"
+            ],
+            "average_basket_size": 15
+        },
+        {
+            "user_id": "U099",
+            "name": "Hamza Malik",
+            "phone": "+92-3235268831",
+            "email": "hamza.malik99@gmail.com",
+            "city": "Peshawar",
+            "loyalty_points": 4905,
+            "tier": "Gold",
+            "total_spent_pkr": 28832,
+            "last_purchase_date": "2020-09-16",
+            "member_since": "2025-05-23",
+            "preferred_categories": [
+                "Frozen Food",
+                "Personal Care"
+            ],
+            "average_basket_size": 9
+        },
+        {
+            "user_id": "U100",
+            "name": "Zara Ansari",
+            "phone": "+92-3455354591",
+            "email": "zara.ansari100@gmail.com",
+            "city": "Hyderabad",
+            "loyalty_points": 3491,
+            "tier": "Gold",
+            "total_spent_pkr": 190116,
+            "last_purchase_date": "2020-11-13",
+            "member_since": "2018-04-07",
+            "preferred_categories": [
+                "Baby Care",
+                "Dairy"
+            ],
+            "average_basket_size": 5
+        }
+    ]
+}

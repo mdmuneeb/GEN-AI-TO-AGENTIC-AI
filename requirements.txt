@@ -18,3 +18,6 @@ pypdf
 sentence-transformers
 chromadb
 langchain_chroma
+ddgs
+langchain_experimental
+openpyxl
