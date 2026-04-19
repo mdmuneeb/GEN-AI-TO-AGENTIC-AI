@@ -16,6 +16,7 @@ wikipedia
 scikit-learn
 pypdf   
 sentence-transformers
+langgraph
 chromadb
 langchain_chroma
 ddgs
